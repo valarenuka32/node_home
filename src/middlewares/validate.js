@@ -3,4 +3,4 @@ const Joi = require("joi");
 
 
 
-module.exports = validate;
+// module.exports = validate;
